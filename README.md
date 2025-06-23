@@ -1,6 +1,7 @@
 # alu project in Digital Logic Sim
 
 ## Roadmap
+### Basic ALU
 - [x] Making the logics gates
 - [x] Creating a basic 1-bit adder
 - [x] Creating a 7 to 8-bit adder
