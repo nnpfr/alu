@@ -1,4 +1,4 @@
-# alu project in Digital Logic Sim
+# ALU project in Digital Logic Sim
 
 ## Roadmap
 ### Basic ALU
