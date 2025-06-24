@@ -26,7 +26,7 @@ This project is my first GitHub repository, i do this to learn how to do a githu
 - [x] Isolating the hundreds out of a 8-bit number
 - [ ] Isolating the tens out of a 8-bit number
 - [ ] Isolating the ones out of a 8-bit number
-## What is Digital Logic Sim[^1] ?
+## What is Digital Logic Sim ?
 Digital logic Sim is a minimalistic digital logic simulator. You can create various chips starting with a NAND gate, from there you can go the whole way to a little computer !
 This sim is made by [Sebestian Lague](https://www.youtube/com/@SebastianLague).
 
