@@ -16,7 +16,7 @@
 - [x] Making the display move the negative sign (-)
 - [x] Isolating the hundreds out of a 8-bit number
 - [ ] Isolating the tens out of a 8-bit number
-- [ ] Isolating the unit out of a 8-bit number
+- [ ] Isolating the ones out of a 8-bit number
 
 
 [^1]: Digital logic sim is made by Sebastian Lague. You can find his project [here](https://sebastian.itch.io/digital-logic-sim) and his channel [here](https://www.youtube.com/@SebastianLague).
