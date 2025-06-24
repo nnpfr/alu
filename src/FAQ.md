@@ -6,7 +6,7 @@
   1. If you used the zip version make sure to put the chips in the Chips folder and delete the zip folder if it's in the Chips folder
 
 And you are done !
-
+ 
 ## Where do I install Digital Logic Sim ?
 
 You can get Digital Logic Sim [here](https://sebastian.itch.io/digital-logic-sim).
