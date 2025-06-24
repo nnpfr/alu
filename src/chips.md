@@ -18,3 +18,9 @@ A table that describe the chips.
 | Comparateur 1-bit | A chip that takes 2 bit and say if they are equal or if one is grater than the other | 2x 1-bit | 3x 1-bit |
 | Comparateur 8-bit | A chip that takes 2 8-bit number and say if they are equal or if one is grater than the other | 2x 8-bit | 3x 1-bit |
 | D Latch | A data latch that can store 1 bit | 2x 1-bit | 1x 1-bit |
+
+---
+
+### An image of all the chips
+
+![An image of all the chips](https://github.com/nnpfr/alu/blob/documentation/Images/Chips.PNG)
