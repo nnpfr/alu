@@ -1,0 +1,23 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Dossiers de log
+logs/
+*.log
+
+# Dépendances
+node_modules/
+vendor/
+
+# Fichiers temporaires
+*.tmp
+*.swp
+
+# Configuration de l'éditeur
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
