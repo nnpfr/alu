@@ -28,3 +28,5 @@ nav:
 
 markdown_extensions:
   - pymdownx.tasklist
+  - footnotes
+  - markdown.extensions.extra
