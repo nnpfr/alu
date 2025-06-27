@@ -23,7 +23,8 @@ nav:
   - Introduction:
     - "Installing and FAQ": introduction/FAQ.md
     - "Logic gates": introduction/logic_gates.md
+    - "Table of the chips": introduction/chips.md
+
 
 markdown_extensions:
   - pymdownx.tasklist
-    - "Table of the chips": introduction/chips.md
