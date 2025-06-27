@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+
+
+
+
+site_name: ALU on Digital Logical Sim
+#site_url: https://mydomain.org/mysite
+repo_url: https://github.com/nnpfr/alu
+
+docs_dir: documentation
+
+theme:
+  name: material
+  palette:
+    primary: light blue
+
+  features:
+    - navigation.instant
+
+nav:
+  - Welcome: index.md
+  - Introduction:
+    - "Installing and FAQ": introduction/FAQ.md
+    - "Logic gates": introduction/logic_gates.md
+    - "Table of the chips": introduction/chips.md

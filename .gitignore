@@ -1,23 +1,32 @@
-# Fichiers système
-.DS_Store
-Thumbs.db
-
-# Dossiers de log
-logs/
-*.log
-
-# Dépendances
-node_modules/
-vendor/
-
-# Fichiers temporaires
-*.tmp
-*.swp
-
-# Configuration de l'éditeur
-.vscode/
+# IDE configuration files
 .idea/
+.vscode/
 
-# Build
-dist/
-build/
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# Temp
+**/var/
+**/var/log
+**/logs
+~*.xlsm
+~*.xls
+~*.xlam
+
+# Python
+venv/
+.env/
+.venv/
+__pycache__/
+
+# Mkdocs build
+/site/
