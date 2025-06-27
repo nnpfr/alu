@@ -20,7 +20,7 @@ theme:
         icon: material/brightness-4
         name: Passer en mode sombre
     - scheme: slate
-      primary: light blue
+      primary: indigo
       accent: amber
       toggle:
         icon: material/brightness-7
