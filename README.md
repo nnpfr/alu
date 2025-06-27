@@ -7,7 +7,7 @@
 ## Introduction
 This project is my first GitHub repository, i do this to learn how to do a github repository and how does computer work, if you want to learn how does computer work I recomand [this](https://youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq&si=9D6MCIPkoR6OPrXW) series by Sebastian Lague, the simulation that i am using for this is from him. You can see the progression of the project with the picture below and the upcoming feature with the road map.
 
-![An image where we see that we can go from an NAND gate to a memory, a 7-segment display and an adder](https://github.com/nnpfr/alu/blob/main/Images/thumbnail.png)
+![An image where we see that we can go from an NAND gate to a memory, a 7-segment display and an adder](https://github.com/nnpfr/alu/blob/main/images/thumbnail.png)
 
 ## Roadmap
 ### Basic ALU
