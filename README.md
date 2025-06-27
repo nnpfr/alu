@@ -2,8 +2,7 @@
 
 > My project is to make an ALU in Digital Logic Sim. By doing this project I will learn how does computer work. After doing that i will extend the project until I have a fully functional computer in the Simulation. And all of this project started with only an NAND gate. If you want to see my progress, all the chips i used are in the scr folder.
 >
-> 📘 Documentation : Comming soon !
-
+> 📘 Documentation : [https://nnpfr.github.io/alu/](https://nnpfr.github.io/alu/)
 ## Introduction
 This project is my first GitHub repository, i do this to learn how to do a github repository and how does computer work, if you want to learn how does computer work I recomand [this](https://youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq&si=9D6MCIPkoR6OPrXW) series by Sebastian Lague, the simulation that i am using for this is from him. You can see the progression of the project with the picture below and the upcoming feature with the road map.
 
