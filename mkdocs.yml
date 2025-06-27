@@ -15,13 +15,13 @@ theme:
   palette:
     - scheme: default
       primary: light blue
-      accent: indigo
+      accent: deep purple
       toggle:
         icon: material/brightness-4
         name: Passer en mode sombre
     - scheme: slate
       primary: light blue
-      accent: indigo
+      accent: amber
       toggle:
         icon: material/brightness-7
         name: Passer en mode clair
