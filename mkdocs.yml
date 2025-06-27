@@ -13,8 +13,9 @@ docs_dir: documentation
 theme:
   name: material
   palette:
-    primary: light blue
-    accent: indigo
+    - scheme: default
+      primary: light blue
+      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Passer en mode sombre
@@ -24,6 +25,7 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Passer en mode clair
+
 
   features:
     - navigation.instant
